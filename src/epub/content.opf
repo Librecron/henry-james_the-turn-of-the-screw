@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://librecron.com/ebooks/henry-james/the-turn-of-the-screw</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-18T19:23:37Z</dc:date>
+		<meta property="dcterms:modified">2021-03-18T19:23:37Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/.</dc:rights>
 		<dc:publisher id="publisher">Librecron</dc:publisher>
 		<meta property="file-as" refines="#publisher">Librecron</meta>
@@ -47,14 +47,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A governess in charge of two children thinks that the grounds of the estate she works on are haunted.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Turn of the Screw&lt;/i&gt; is one of those rare books that, despite its short length, punches far above its weight. Written in 1898 by Henry James, it centers around the experience of a governess who is in charge of two children. One day, she begins to experience strange events and begins to think that the grounds are haunted.&lt;/p&gt;
-			&lt;p&gt;What makes it unique is that that is one of many interpretations. Though at first considered a ghost story, critics that took a look at it decades later thought that the events were just the governess's imagination. Even later, as critical theory evolved, different interpretations came to be published.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Turn of the Screw&lt;/i&gt; is one of those rare books that, despite its short length, punches far above its weight. Written in 1898, it centers around the experience of a governess who is in charge of two children. One day, she begins to experience strange events and begins to think that the grounds are haunted.&lt;/p&gt;
+			&lt;p&gt;What makes it unique is that that is one of many interpretations. Though at first considered a ghost story, critics that took a look at it decades later thought that the events were just the governesses imagination. Even later, as critical theory evolved, different interpretations came to be published.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/209</dc:source>
 		<dc:source>https://archive.org/details/turnofthescrew00jamerich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">45336</meta>
+		<meta property="se:reading-ease.flesch">79.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Turn_of_the_Screw</meta>
 		<meta property="se:url.vcs.github">https://github.com/librecron/henry-james_the-turn-of-the-screw</meta>
 		<dc:creator id="author">Henry James</dc:creator>
